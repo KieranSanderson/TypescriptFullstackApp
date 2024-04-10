@@ -1,0 +1,1586 @@
+{
+  "1": [
+    {
+      "timestamp": 1704067200,
+      "humidity": -9.345197128189582,
+      "wind": 18.136751285742708,
+      "temperature": 31.7777777777,
+      "note": "Monday 1AM"
+    },
+    {
+      "timestamp": 1704070800,
+      "humidity": -11.399933989227579,
+      "wind": 17.369990701057752,
+      "temperature": 31.927595754323775,
+      "note": "Monday 2AM"
+    },
+    {
+      "timestamp": 1704074400,
+      "humidity": -7.98572842013019,
+      "wind": 16.77087428212932,
+      "temperature": 29.353578282744262,
+      "note": "Monday 3AM"
+    },
+    {
+      "timestamp": 1704078000,
+      "humidity": -6.877082645582364,
+      "wind": 14.72551214522096,
+      "temperature": 28.529557243625117,
+      "note": "Monday 4AM"
+    },
+    {
+      "timestamp": 1704081600,
+      "humidity": -7.153887879712023,
+      "wind": 14.019626063319754,
+      "temperature": 28.21228991996978,
+      "note": "Monday 5AM"
+    },
+    {
+      "timestamp": 1704085200,
+      "humidity": -7.898292879880586,
+      "wind": 12.491955318313593,
+      "temperature": 25.950951406981492,
+      "note": "Monday 6AM"
+    },
+    {
+      "timestamp": 1704088800,
+      "humidity": -5.8160472355820785,
+      "wind": 10.466775497000507,
+      "temperature": 27.002052706170993,
+      "note": "Monday 7AM"
+    },
+    {
+      "timestamp": 1704092400,
+      "humidity": -2.1313622399935674,
+      "wind": 11.79451025544566,
+      "temperature": 23.925287839908712,
+      "note": "Monday 8AM"
+    },
+    {
+      "timestamp": 1704096000,
+      "humidity": -3.751181829703114,
+      "wind": 10.133843295825967,
+      "temperature": 23.511298611331718,
+      "note": "Monday 9AM"
+    },
+    {
+      "timestamp": 1704099600,
+      "humidity": -2.1652122190825196,
+      "wind": 6.446328657247038,
+      "temperature": 22.372047540164974,
+      "note": "Monday 10AM"
+    },
+    {
+      "timestamp": 1704103200,
+      "humidity": 0.6498797587738228,
+      "wind": 7.318784792432054,
+      "temperature": 23.550411043285095,
+      "note": "Monday 11AM"
+    },
+    {
+      "timestamp": 1704106800,
+      "humidity": -0.3692778963382821,
+      "wind": 6.79990302088819,
+      "temperature": 20.82584699934968,
+      "note": "Monday 12PM"
+    },
+    {
+      "timestamp": 1704110400,
+      "humidity": 1.7905189795168939,
+      "wind": 6.803990463213461,
+      "temperature": 21.52944213152685,
+      "note": "Monday 1PM"
+    },
+    {
+      "timestamp": 1704114000,
+      "humidity": 3.637522210103886,
+      "wind": 5.73408217696487,
+      "temperature": 20.98611925759573,
+      "note": "Monday 2PM"
+    },
+    {
+      "timestamp": 1704117600,
+      "humidity": 4.818081806856617,
+      "wind": 4.823620796100566,
+      "temperature": 17.300023235139317,
+      "note": "Monday 3PM"
+    },
+    {
+      "timestamp": 1704121200,
+      "humidity": 2.619027853214548,
+      "wind": 1.1044741608365483,
+      "temperature": 16.774704010497878,
+      "note": "Monday 4PM"
+    },
+    {
+      "timestamp": 1704124800,
+      "humidity": 4.698919466700074,
+      "wind": 1.3307893425549375,
+      "temperature": 15.334236944013357,
+      "note": "Monday 5PM"
+    },
+    {
+      "timestamp": 1704128400,
+      "humidity": 4.7119407316171085,
+      "wind": -0.9372762498107212,
+      "temperature": 15.801745345555751,
+      "note": "Monday 6PM"
+    },
+    {
+      "timestamp": 1704132000,
+      "humidity": 7.446034155377008,
+      "wind": -0.555256032016537,
+      "temperature": 14.057051426467492,
+      "note": "Monday 7PM"
+    },
+    {
+      "timestamp": 1704135600,
+      "humidity": 9.159302156201022,
+      "wind": -1.1022434516323276,
+      "temperature": 14.254079645530297,
+      "note": "Monday 8PM"
+    },
+    {
+      "timestamp": 1704139200,
+      "humidity": 9.434974169130609,
+      "wind": -3.4182590568720723,
+      "temperature": 13.639066260392923,
+      "note": "Monday 9PM"
+    },
+    {
+      "timestamp": 1704142800,
+      "humidity": 11.870976199185757,
+      "wind": -2.902914004379551,
+      "temperature": 9.03381084555333,
+      "note": "Monday 10PM"
+    },
+    {
+      "timestamp": 1704146400,
+      "humidity": 10.531002830516105,
+      "wind": -6.905072022684337,
+      "temperature": 10.708942314084307,
+      "note": "Monday 11PM"
+    },
+    {
+      "timestamp": 1704150000,
+      "humidity": 13.913326891602209,
+      "wind": -7.96074469818455,
+      "temperature": 8.288026173829255,
+      "note": "Tuesday 12AM"
+    },
+    {
+      "timestamp": 1704153600,
+      "humidity": -9.548851228874966,
+      "wind": 16.971672029460102,
+      "temperature": 31.673787493136956,
+      "note": "Tuesday 1AM"
+    },
+    {
+      "timestamp": 1704157200,
+      "humidity": -10.503475049571978,
+      "wind": 14.168790456061544,
+      "temperature": 30.965149001795346,
+      "note": "Tuesday 2AM"
+    },
+    {
+      "timestamp": 1704160800,
+      "humidity": -7.342795079516448,
+      "wind": 14.179112368703414,
+      "temperature": 31.74474587815748,
+      "note": "Tuesday 3AM"
+    },
+    {
+      "timestamp": 1704164400,
+      "humidity": -8.011658736273127,
+      "wind": 14.199205928180717,
+      "temperature": 30.08947144127655,
+      "note": "Tuesday 4AM"
+    },
+    {
+      "timestamp": 1704168000,
+      "humidity": -8.144016027810945,
+      "wind": 13.84419215743269,
+      "temperature": 27.056506997576484,
+      "note": "Tuesday 5AM"
+    },
+    {
+      "timestamp": 1704171600,
+      "humidity": -4.704645560140375,
+      "wind": 11.81010431541786,
+      "temperature": 26.03844446556578,
+      "note": "Tuesday 6AM"
+    },
+    {
+      "timestamp": 1704175200,
+      "humidity": -6.180100906958535,
+      "wind": 10.93848707175456,
+      "temperature": 24.44850412917346,
+      "note": "Tuesday 7AM"
+    },
+    {
+      "timestamp": 1704178800,
+      "humidity": -3.856296581054459,
+      "wind": 8.186951932391214,
+      "temperature": 23.69332775213345,
+      "note": "Tuesday 8AM"
+    },
+    {
+      "timestamp": 1704182400,
+      "humidity": -2.35738584672087,
+      "wind": 7.274086752826803,
+      "temperature": 24.54050116658602,
+      "note": "Tuesday 9AM"
+    },
+    {
+      "timestamp": 1704186000,
+      "humidity": -2.3230429435049293,
+      "wind": 7.697590659153496,
+      "temperature": 22.739681915619308,
+      "note": "Tuesday 10AM"
+    },
+    {
+      "timestamp": 1704189600,
+      "humidity": 0.4394473432059769,
+      "wind": 5.3672583788313,
+      "temperature": 21.620171390810594,
+      "note": "Tuesday 11AM"
+    },
+    {
+      "timestamp": 1704193200,
+      "humidity": 0.9834765470638311,
+      "wind": 4.524799333590855,
+      "temperature": 20.71406791140948,
+      "note": "Tuesday 12PM"
+    },
+    {
+      "timestamp": 1704196800,
+      "humidity": 1.6141833875728873,
+      "wind": 4.784195767349276,
+      "temperature": 20.402002477585672,
+      "note": "Tuesday 1PM"
+    },
+    {
+      "timestamp": 1704200400,
+      "humidity": 1.1521909874218546,
+      "wind": 4.713196988468416,
+      "temperature": 18.30173240479499,
+      "note": "Tuesday 2PM"
+    },
+    {
+      "timestamp": 1704204000,
+      "humidity": 3.921876560743171,
+      "wind": 3.9265538808199176,
+      "temperature": 18.63300068827617,
+      "note": "Tuesday 3PM"
+    },
+    {
+      "timestamp": 1704207600,
+      "humidity": 2.136851361120308,
+      "wind": 3.4680859999823417,
+      "temperature": 18.610217187979856,
+      "note": "Tuesday 4PM"
+    },
+    {
+      "timestamp": 1704211200,
+      "humidity": 5.423317734031474,
+      "wind": -0.8662646029456518,
+      "temperature": 15.577098353706603,
+      "note": "Tuesday 5PM"
+    },
+    {
+      "timestamp": 1704214800,
+      "humidity": 7.217406573777919,
+      "wind": -1.1168753774574833,
+      "temperature": 16.717525051029636,
+      "note": "Tuesday 6PM"
+    },
+    {
+      "timestamp": 1704218400,
+      "humidity": 8.332454204853764,
+      "wind": -2.588449889824629,
+      "temperature": 14.151452926913336,
+      "note": "Tuesday 7PM"
+    },
+    {
+      "timestamp": 1704222000,
+      "humidity": 6.974435338649164,
+      "wind": -3.7928897241558532,
+      "temperature": 14.331047963726384,
+      "note": "Tuesday 8PM"
+    },
+    {
+      "timestamp": 1704225600,
+      "humidity": 10.141788515246521,
+      "wind": -3.0979965226246966,
+      "temperature": 12.077561476034155,
+      "note": "Tuesday 9PM"
+    },
+    {
+      "timestamp": 1704229200,
+      "humidity": 11.315564709707372,
+      "wind": -2.095976037676416,
+      "temperature": 10.339163050735785,
+      "note": "Tuesday 10PM"
+    },
+    {
+      "timestamp": 1704232800,
+      "humidity": 12.687793851683438,
+      "wind": -4.782513520948869,
+      "temperature": 11.45401274576691,
+      "note": "Tuesday 11PM"
+    },
+    {
+      "timestamp": 1704236400,
+      "humidity": 10.162633110867201,
+      "wind": -6.500662549258283,
+      "temperature": 8.458956257920857,
+      "note": "Wednesday 12AM"
+    },
+    {
+      "timestamp": 1704240000,
+      "humidity": -9.6444817401179,
+      "wind": 16.996305920856503,
+      "temperature": 32.84142356524538,
+      "note": "Wednesday 1AM"
+    },
+    {
+      "timestamp": 1704243600,
+      "humidity": -11.629041735728798,
+      "wind": 17.756170425574396,
+      "temperature": 30.12275153401076,
+      "note": "Wednesday 2AM"
+    },
+    {
+      "timestamp": 1704247200,
+      "humidity": -8.483876186028112,
+      "wind": 14.566939120383186,
+      "temperature": 28.202365297267306,
+      "note": "Wednesday 3AM"
+    },
+    {
+      "timestamp": 1704250800,
+      "humidity": -8.537188430973668,
+      "wind": 15.804817026357743,
+      "temperature": 29.662490853070153,
+      "note": "Wednesday 4AM"
+    },
+    {
+      "timestamp": 1704254400,
+      "humidity": -8.394993544817243,
+      "wind": 13.73404699963279,
+      "temperature": 26.167886024313184,
+      "note": "Wednesday 5AM"
+    },
+    {
+      "timestamp": 1704258000,
+      "humidity": -4.71009899901459,
+      "wind": 11.105099973345233,
+      "temperature": 28.83164233165471,
+      "note": "Wednesday 6AM"
+    },
+    {
+      "timestamp": 1704261600,
+      "humidity": -6.891732354780532,
+      "wind": 9.801078201394368,
+      "temperature": 27.338684976130935,
+      "note": "Wednesday 7AM"
+    },
+    {
+      "timestamp": 1704265200,
+      "humidity": -4.737301487056345,
+      "wind": 9.035412682638693,
+      "temperature": 23.334289565574856,
+      "note": "Wednesday 8AM"
+    },
+    {
+      "timestamp": 1704268800,
+      "humidity": -1.832033817431319,
+      "wind": 10.286667848954464,
+      "temperature": 25.551990501036542,
+      "note": "Wednesday 9AM"
+    },
+    {
+      "timestamp": 1704272400,
+      "humidity": -2.2369950974970774,
+      "wind": 6.9119222943735386,
+      "temperature": 23.651495403113625,
+      "note": "Wednesday 10AM"
+    },
+    {
+      "timestamp": 1704276000,
+      "humidity": 0.6243946330554202,
+      "wind": 8.277087986468501,
+      "temperature": 21.411851607423333,
+      "note": "Wednesday 11AM"
+    },
+    {
+      "timestamp": 1704279600,
+      "humidity": -0.9817448653385679,
+      "wind": 5.623770469064939,
+      "temperature": 22.520461454171812,
+      "note": "Wednesday 12PM"
+    },
+    {
+      "timestamp": 1704283200,
+      "humidity": -0.6561658072331165,
+      "wind": 5.631816564371823,
+      "temperature": 18.378099751399354,
+      "note": "Wednesday 1PM"
+    },
+    {
+      "timestamp": 1704286800,
+      "humidity": 2.9149475299327543,
+      "wind": 4.025841778344227,
+      "temperature": 19.944942249567898,
+      "note": "Wednesday 2PM"
+    },
+    {
+      "timestamp": 1704290400,
+      "humidity": 2.2818529304892454,
+      "wind": 4.8153591647178695,
+      "temperature": 18.956364682078856,
+      "note": "Wednesday 3PM"
+    },
+    {
+      "timestamp": 1704294000,
+      "humidity": 5.050719518484291,
+      "wind": 1.72409966655278,
+      "temperature": 17.990461859930058,
+      "note": "Wednesday 4PM"
+    },
+    {
+      "timestamp": 1704297600,
+      "humidity": 4.753059854575498,
+      "wind": 2.8647024479878773,
+      "temperature": 15.262307568777466,
+      "note": "Wednesday 5PM"
+    },
+    {
+      "timestamp": 1704301200,
+      "humidity": 7.739884035232422,
+      "wind": 1.8064385877153288,
+      "temperature": 16.265459917920218,
+      "note": "Wednesday 6PM"
+    },
+    {
+      "timestamp": 1704304800,
+      "humidity": 7.023688619766965,
+      "wind": -0.7767987862347363,
+      "temperature": 14.438675202194364,
+      "note": "Wednesday 7PM"
+    },
+    {
+      "timestamp": 1704308400,
+      "humidity": 7.430712837343236,
+      "wind": -0.6757087348751654,
+      "temperature": 13.562599262805506,
+      "note": "Wednesday 8PM"
+    },
+    {
+      "timestamp": 1704312000,
+      "humidity": 10.419759590396989,
+      "wind": -3.4038505088858413,
+      "temperature": 12.267109956374423,
+      "note": "Wednesday 9PM"
+    },
+    {
+      "timestamp": 1704315600,
+      "humidity": 11.932957672593481,
+      "wind": -3.255772700441451,
+      "temperature": 12.253868349214507,
+      "note": "Wednesday 10PM"
+    },
+    {
+      "timestamp": 1704319200,
+      "humidity": 12.841059942364847,
+      "wind": -6.8401197495994515,
+      "temperature": 11.248433202612343,
+      "note": "Wednesday 11PM"
+    },
+    {
+      "timestamp": 1704322800,
+      "humidity": 12.090158105074192,
+      "wind": -5.82438242227345,
+      "temperature": 9.997642847018632,
+      "note": "Thursday 12AM"
+    },
+    {
+      "timestamp": 1704067201,
+      "temperature": 12,
+      "wind": null,
+      "humidity": null
+    },
+    {
+      "timestamp": 1704067199,
+      "temperature": 12,
+      "wind": null,
+      "humidity": null
+    },
+    {
+      "timestamp": 1704322801,
+      "temperature": 12,
+      "wind": null,
+      "humidity": null
+    },
+    {
+      "timestamp": 1704322802,
+      "temperature": 115,
+      "wind": null,
+      "humidity": null
+    },
+    {
+      "timestamp": 1704322803,
+      "temperature": 14,
+      "wind": 1223,
+      "humidity": null
+    },
+    {
+      "timestamp": 0,
+      "temperature": 234,
+      "wind": 1223,
+      "humidity": null
+    },
+    {
+      "timestamp": 1712059313,
+      "temperature": null,
+      "wind": null,
+      "humidity": null
+    },
+    {
+      "timestamp": 1712059465,
+      "temperature": 12,
+      "wind": null,
+      "humidity": null
+    },
+    {
+      "timestamp": 1712061018,
+      "temperature": 3342,
+      "wind": null,
+      "humidity": null
+    },
+    {
+      "timestamp": 1712080605,
+      "temperature": 34224,
+      "wind": null,
+      "humidity": null
+    }
+  ],
+  "2": [
+    {
+      "timestamp": 1704067200,
+      "humidity": -11.10040316458014,
+      "wind": 17.56552666887302,
+      "temperature": 30.503334994585355,
+      "note": "Monday 1AM"
+    },
+    {
+      "timestamp": 1704070800,
+      "humidity": -11.975898493913796,
+      "wind": 15.377866494604998,
+      "temperature": 30.447057733724343,
+      "note": "Monday 2AM"
+    },
+    {
+      "timestamp": 1704074400,
+      "humidity": -7.959330189680451,
+      "wind": 13.536727779306538,
+      "temperature": 30.31256459049895,
+      "note": "Monday 3AM"
+    },
+    {
+      "timestamp": 1704078000,
+      "humidity": -6.976057783113491,
+      "wind": 12.955348686642939,
+      "temperature": 30.927330031912458,
+      "note": "Monday 4AM"
+    },
+    {
+      "timestamp": 1704081600,
+      "humidity": -5.65449234772217,
+      "wind": 12.846212557385172,
+      "temperature": 28.59226418626658,
+      "note": "Monday 5AM"
+    },
+    {
+      "timestamp": 1704085200,
+      "humidity": -4.595245819241217,
+      "wind": 11.125291444391628,
+      "temperature": 28.493837025896653,
+      "note": "Monday 6AM"
+    },
+    {
+      "timestamp": 1704088800,
+      "humidity": -3.9656408621414236,
+      "wind": 12.373100180711141,
+      "temperature": 24.142645412963244,
+      "note": "Monday 7AM"
+    },
+    {
+      "timestamp": 1704092400,
+      "humidity": -3.354514376158246,
+      "wind": 9.716131593536867,
+      "temperature": 23.914034841388084,
+      "note": "Monday 8AM"
+    },
+    {
+      "timestamp": 1704096000,
+      "humidity": -3.5225210019435265,
+      "wind": 8.284626585954808,
+      "temperature": 25.94716784385826,
+      "note": "Monday 9AM"
+    },
+    {
+      "timestamp": 1704099600,
+      "humidity": -2.6814384557497117,
+      "wind": 9.079487528500426,
+      "temperature": 21.007962498749308,
+      "note": "Monday 10AM"
+    },
+    {
+      "timestamp": 1704103200,
+      "humidity": -1.6249210283490916,
+      "wind": 6.540742505520604,
+      "temperature": 20.30067356237067,
+      "note": "Monday 11AM"
+    },
+    {
+      "timestamp": 1704106800,
+      "humidity": 1.4313205075396702,
+      "wind": 7.65310436749812,
+      "temperature": 22.608691611577445,
+      "note": "Monday 12PM"
+    },
+    {
+      "timestamp": 1704110400,
+      "humidity": 0.9311511305806626,
+      "wind": 5.6375027702861615,
+      "temperature": 21.817395759830028,
+      "note": "Monday 1PM"
+    },
+    {
+      "timestamp": 1704114000,
+      "humidity": 2.7987250974588145,
+      "wind": 5.0410416455535625,
+      "temperature": 19.80488036922379,
+      "note": "Monday 2PM"
+    },
+    {
+      "timestamp": 1704117600,
+      "humidity": 3.3151635621388387,
+      "wind": 1.3858200294916596,
+      "temperature": 19.86887859367627,
+      "note": "Monday 3PM"
+    },
+    {
+      "timestamp": 1704121200,
+      "humidity": 5.957119499187428,
+      "wind": 3.7950396393075163,
+      "temperature": 16.94334099441161,
+      "note": "Monday 4PM"
+    },
+    {
+      "timestamp": 1704124800,
+      "humidity": 3.733230412611393,
+      "wind": 1.2194032011909508,
+      "temperature": 17.328418951270926,
+      "note": "Monday 5PM"
+    },
+    {
+      "timestamp": 1704128400,
+      "humidity": 6.883466667531852,
+      "wind": 1.8980720433488303,
+      "temperature": 15.44280761042596,
+      "note": "Monday 6PM"
+    },
+    {
+      "timestamp": 1704132000,
+      "humidity": 8.668129235377968,
+      "wind": -1.6200994574163152,
+      "temperature": 15.50375286245113,
+      "note": "Monday 7PM"
+    },
+    {
+      "timestamp": 1704135600,
+      "humidity": 7.443150468534248,
+      "wind": -1.1128220471566905,
+      "temperature": 11.971935679549178,
+      "note": "Monday 8PM"
+    },
+    {
+      "timestamp": 1704139200,
+      "humidity": 7.4692309367534895,
+      "wind": -1.7089934597308494,
+      "temperature": 13.027817274208152,
+      "note": "Monday 9PM"
+    },
+    {
+      "timestamp": 1704142800,
+      "humidity": 10.316480411399578,
+      "wind": -4.2528389797688675,
+      "temperature": 9.810254470059682,
+      "note": "Monday 10PM"
+    },
+    {
+      "timestamp": 1704146400,
+      "humidity": 9.307531981998109,
+      "wind": -6.849342745133033,
+      "temperature": 9.722941615257842,
+      "note": "Monday 11PM"
+    },
+    {
+      "timestamp": 1704150000,
+      "humidity": 10.879304110351026,
+      "wind": -4.751715373466868,
+      "temperature": 10.741553829637393,
+      "note": "Tuesday 12AM"
+    },
+    {
+      "timestamp": 1704153600,
+      "humidity": -12.247671573071406,
+      "wind": 16.0696237593029,
+      "temperature": 32.31413930707234,
+      "note": "Tuesday 1AM"
+    },
+    {
+      "timestamp": 1704157200,
+      "humidity": -9.201448732132516,
+      "wind": 14.824979818991963,
+      "temperature": 29.705457528947427,
+      "note": "Tuesday 2AM"
+    },
+    {
+      "timestamp": 1704160800,
+      "humidity": -9.88442355662229,
+      "wind": 13.022201260843929,
+      "temperature": 28.00682557817947,
+      "note": "Tuesday 3AM"
+    },
+    {
+      "timestamp": 1704164400,
+      "humidity": -6.921015851123419,
+      "wind": 15.246089001872223,
+      "temperature": 27.12126400591799,
+      "note": "Tuesday 4AM"
+    },
+    {
+      "timestamp": 1704168000,
+      "humidity": -5.766682135727586,
+      "wind": 12.362435635398626,
+      "temperature": 28.50683413762635,
+      "note": "Tuesday 5AM"
+    },
+    {
+      "timestamp": 1704171600,
+      "humidity": -7.04314003441984,
+      "wind": 11.562277314594176,
+      "temperature": 27.018051564508102,
+      "note": "Tuesday 6AM"
+    },
+    {
+      "timestamp": 1704175200,
+      "humidity": -4.711636810218695,
+      "wind": 9.021378073935947,
+      "temperature": 26.497954869562797,
+      "note": "Tuesday 7AM"
+    },
+    {
+      "timestamp": 1704178800,
+      "humidity": -4.832132897818868,
+      "wind": 10.886892046099767,
+      "temperature": 24.466860144617023,
+      "note": "Tuesday 8AM"
+    },
+    {
+      "timestamp": 1704182400,
+      "humidity": -1.7235621426769567,
+      "wind": 10.939086646377113,
+      "temperature": 25.880171697561188,
+      "note": "Tuesday 9AM"
+    },
+    {
+      "timestamp": 1704186000,
+      "humidity": -2.292394919290885,
+      "wind": 8.61450824567548,
+      "temperature": 23.381840382564725,
+      "note": "Tuesday 10AM"
+    },
+    {
+      "timestamp": 1704189600,
+      "humidity": -1.0877803465857037,
+      "wind": 8.76129344600955,
+      "temperature": 20.51767574698947,
+      "note": "Tuesday 11AM"
+    },
+    {
+      "timestamp": 1704193200,
+      "humidity": 0.12238199189095766,
+      "wind": 6.230710581346307,
+      "temperature": 19.712314673702906,
+      "note": "Tuesday 12PM"
+    },
+    {
+      "timestamp": 1704196800,
+      "humidity": -0.768473301982258,
+      "wind": 6.74383773815399,
+      "temperature": 18.92144148740618,
+      "note": "Tuesday 1PM"
+    },
+    {
+      "timestamp": 1704200400,
+      "humidity": 2.2897745518142782,
+      "wind": 5.4335639249518906,
+      "temperature": 18.987897973607364,
+      "note": "Tuesday 2PM"
+    },
+    {
+      "timestamp": 1704204000,
+      "humidity": 3.921877777777777,
+      "wind": 3.88337747028552,
+      "temperature": 19.91668764046386,
+      "note": "Tuesday 3PM"
+    },
+    {
+      "timestamp": 1704207600,
+      "humidity": 3.8008466686837963,
+      "wind": 1.751288879657575,
+      "temperature": 18.599692771599276,
+      "note": "Tuesday 4PM"
+    },
+    {
+      "timestamp": 1704211200,
+      "humidity": 5.213803343205627,
+      "wind": 0.6738815325042031,
+      "temperature": 16.933998758502803,
+      "note": "Tuesday 5PM"
+    },
+    {
+      "timestamp": 1704214800,
+      "humidity": 6.652190911316781,
+      "wind": -0.9322670285006911,
+      "temperature": 16.9633369749637,
+      "note": "Tuesday 6PM"
+    },
+    {
+      "timestamp": 1704218400,
+      "humidity": 6.82403698062779,
+      "wind": -0.4235128499623375,
+      "temperature": 13.13223962519882,
+      "note": "Tuesday 7PM"
+    },
+    {
+      "timestamp": 1704222000,
+      "humidity": 7.728118661869251,
+      "wind": -3.6198624396066315,
+      "temperature": 11.20451568785668,
+      "note": "Tuesday 8PM"
+    },
+    {
+      "timestamp": 1704225600,
+      "humidity": 8.836029232970272,
+      "wind": -3.5935472797999033,
+      "temperature": 12.713879350943623,
+      "note": "Tuesday 9PM"
+    },
+    {
+      "timestamp": 1704229200,
+      "humidity": 11.293510506831666,
+      "wind": -3.9210324390650957,
+      "temperature": 12.627547144749684,
+      "note": "Tuesday 10PM"
+    },
+    {
+      "timestamp": 1704232800,
+      "humidity": 11.752068454440735,
+      "wind": -3.424442893144443,
+      "temperature": 11.365799672184252,
+      "note": "Tuesday 11PM"
+    },
+    {
+      "timestamp": 1704236400,
+      "humidity": 11.511262094632547,
+      "wind": -5.16610431194521,
+      "temperature": 7.8588141856065965,
+      "note": "Wednesday 12AM"
+    },
+    {
+      "timestamp": 1704240000,
+      "humidity": -9.668098288428988,
+      "wind": 16.246521793395853,
+      "temperature": 30.90836125769584,
+      "note": "Wednesday 1AM"
+    },
+    {
+      "timestamp": 1704243600,
+      "humidity": -8.73357360640831,
+      "wind": 15.643370393687082,
+      "temperature": 30.028442371523674,
+      "note": "Wednesday 2AM"
+    },
+    {
+      "timestamp": 1704247200,
+      "humidity": -10.161786978421542,
+      "wind": 14.196745501627205,
+      "temperature": 28.03428625131847,
+      "note": "Wednesday 3AM"
+    },
+    {
+      "timestamp": 1704250800,
+      "humidity": -9.749258341887828,
+      "wind": 13.204114137549535,
+      "temperature": 30.25140311763066,
+      "note": "Wednesday 4AM"
+    },
+    {
+      "timestamp": 1704254400,
+      "humidity": -6.718873953479515,
+      "wind": 11.749134268807808,
+      "temperature": 27.33199830949167,
+      "note": "Wednesday 5AM"
+    },
+    {
+      "timestamp": 1704258000,
+      "humidity": -5.598762565501382,
+      "wind": 10.670543146267894,
+      "temperature": 28.308784664641603,
+      "note": "Wednesday 6AM"
+    },
+    {
+      "timestamp": 1704261600,
+      "humidity": -3.039164535067197,
+      "wind": 12.259242531218158,
+      "temperature": 24.399132826149394,
+      "note": "Wednesday 7AM"
+    },
+    {
+      "timestamp": 1704265200,
+      "humidity": -5.544859967678841,
+      "wind": 9.434479891125225,
+      "temperature": 23.13692631977582,
+      "note": "Wednesday 8AM"
+    },
+    {
+      "timestamp": 1704268800,
+      "humidity": -1.7017421582640742,
+      "wind": 10.999543577302953,
+      "temperature": 23.309643028762682,
+      "note": "Wednesday 9AM"
+    },
+    {
+      "timestamp": 1704272400,
+      "humidity": -3.5389567880749837,
+      "wind": 7.752053377109655,
+      "temperature": 24.257566805665665,
+      "note": "Wednesday 10AM"
+    },
+    {
+      "timestamp": 1704276000,
+      "humidity": -1.967884595825102,
+      "wind": 5.370867978387213,
+      "temperature": 23.2635934453937,
+      "note": "Wednesday 11AM"
+    },
+    {
+      "timestamp": 1704279600,
+      "humidity": -1.2496633689799408,
+      "wind": 6.306393361189929,
+      "temperature": 21.24933108020317,
+      "note": "Wednesday 12PM"
+    },
+    {
+      "timestamp": 1704283200,
+      "humidity": 2.4142993817592675,
+      "wind": 3.8512474951282796,
+      "temperature": 18.47731540064765,
+      "note": "Wednesday 1PM"
+    },
+    {
+      "timestamp": 1704286800,
+      "humidity": 2.914293561984734,
+      "wind": 2.8820512825353095,
+      "temperature": 20.264874134239953,
+      "note": "Wednesday 2PM"
+    },
+    {
+      "timestamp": 1704290400,
+      "humidity": 1.579542542978528,
+      "wind": 4.283760621778684,
+      "temperature": 19.773769391199053,
+      "note": "Wednesday 3PM"
+    },
+    {
+      "timestamp": 1704294000,
+      "humidity": 2.4760295112721398,
+      "wind": 2.8008648691692652,
+      "temperature": 17.655799874678806,
+      "note": "Wednesday 4PM"
+    },
+    {
+      "timestamp": 1704297600,
+      "humidity": 5.254632731798347,
+      "wind": 2.3633212725689026,
+      "temperature": 17.959961284849726,
+      "note": "Wednesday 5PM"
+    },
+    {
+      "timestamp": 1704301200,
+      "humidity": 4.51074554492327,
+      "wind": -1.7688985708356268,
+      "temperature": 16.376399499223492,
+      "note": "Wednesday 6PM"
+    },
+    {
+      "timestamp": 1704304800,
+      "humidity": 6.792058774137682,
+      "wind": 0.39311668939981903,
+      "temperature": 14.697810663270456,
+      "note": "Wednesday 7PM"
+    },
+    {
+      "timestamp": 1704308400,
+      "humidity": 7.8326473250789945,
+      "wind": -2.1037747250421823,
+      "temperature": 13.632718869366048,
+      "note": "Wednesday 8PM"
+    },
+    {
+      "timestamp": 1704312000,
+      "humidity": 7.135700154195121,
+      "wind": -2.131615595404903,
+      "temperature": 11.785557175943657,
+      "note": "Wednesday 9PM"
+    },
+    {
+      "timestamp": 1704315600,
+      "humidity": 10.783204302114758,
+      "wind": -4.33051458980355,
+      "temperature": 12.586859340718878,
+      "note": "Wednesday 10PM"
+    },
+    {
+      "timestamp": 1704319200,
+      "humidity": 9.448322094793514,
+      "wind": -5.6764027223982625,
+      "temperature": 10.490076466185762,
+      "note": "Wednesday 11PM"
+    },
+    {
+      "timestamp": 1704322800,
+      "humidity": 12.690724089480224,
+      "wind": -5.307030858121102,
+      "temperature": 10.443891458256937,
+      "note": "Thursday 12AM"
+    }
+  ],
+  "3": [
+    {
+      "timestamp": 1704067200,
+      "humidity": -10.338260720651444,
+      "wind": 16.642262516861337,
+      "temperature": 32.929092631130366,
+      "note": "Monday 1AM"
+    },
+    {
+      "timestamp": 1704070800,
+      "humidity": -11.918476657277537,
+      "wind": 17.727604539720257,
+      "temperature": 29.43637892658748,
+      "note": "Monday 2AM"
+    },
+    {
+      "timestamp": 1704074400,
+      "humidity": -7.774091610615826,
+      "wind": 15.141531639895044,
+      "temperature": 29.996682749494287,
+      "note": "Monday 3AM"
+    },
+    {
+      "timestamp": 1704078000,
+      "humidity": -7.184413785190623,
+      "wind": 15.453081173852155,
+      "temperature": 30.2435892361326,
+      "note": "Monday 4AM"
+    },
+    {
+      "timestamp": 1704081600,
+      "humidity": -6.077876730955504,
+      "wind": 12.57556060008302,
+      "temperature": 28.47095358736692,
+      "note": "Monday 5AM"
+    },
+    {
+      "timestamp": 1704085200,
+      "humidity": -7.915168762932694,
+      "wind": 13.307635906996708,
+      "temperature": 27.82987007035345,
+      "note": "Monday 6AM"
+    },
+    {
+      "timestamp": 1704088800,
+      "humidity": -5.112578335396887,
+      "wind": 12.086765781706376,
+      "temperature": 26.158560856038683,
+      "note": "Monday 7AM"
+    },
+    {
+      "timestamp": 1704092400,
+      "humidity": -2.034300948679319,
+      "wind": 8.73229472564749,
+      "temperature": 25.123004117608076,
+      "note": "Monday 8AM"
+    },
+    {
+      "timestamp": 1704096000,
+      "humidity": -4.647234083027634,
+      "wind": 8.630787359684362,
+      "temperature": 22.23512861459315,
+      "note": "Monday 9AM"
+    },
+    {
+      "timestamp": 1704099600,
+      "humidity": -3.6048743760109616,
+      "wind": 8.197819044675214,
+      "temperature": 22.902480088428,
+      "note": "Monday 10AM"
+    },
+    {
+      "timestamp": 1704103200,
+      "humidity": 0.08286389736861466,
+      "wind": 7.887721546690493,
+      "temperature": 20.727752840251586,
+      "note": "Monday 11AM"
+    },
+    {
+      "timestamp": 1704106800,
+      "humidity": -1.235813307257252,
+      "wind": 6.564355243736078,
+      "temperature": 19.79523308216702,
+      "note": "Monday 12PM"
+    },
+    {
+      "timestamp": 1704110400,
+      "humidity": 2.435446406055627,
+      "wind": 3.564184094085274,
+      "temperature": 18.30326648927454,
+      "note": "Monday 1PM"
+    },
+    {
+      "timestamp": 1704114000,
+      "humidity": 2.324003047886797,
+      "wind": 4.681308828862343,
+      "temperature": 18.54004591277692,
+      "note": "Monday 2PM"
+    },
+    {
+      "timestamp": 1704117600,
+      "humidity": 2.8119972850921338,
+      "wind": 1.716093176420574,
+      "temperature": 16.491812350885496,
+      "note": "Monday 3PM"
+    },
+    {
+      "timestamp": 1704121200,
+      "humidity": 5.310229244579671,
+      "wind": 0.9800781944863601,
+      "temperature": 16.86323146961546,
+      "note": "Monday 4PM"
+    },
+    {
+      "timestamp": 1704124800,
+      "humidity": 6.157627350767229,
+      "wind": -0.8646928267462508,
+      "temperature": 17.82185469223928,
+      "note": "Monday 5PM"
+    },
+    {
+      "timestamp": 1704128400,
+      "humidity": 4.647175232608462,
+      "wind": -1.926314426082385,
+      "temperature": 15.140097925754894,
+      "note": "Monday 6PM"
+    },
+    {
+      "timestamp": 1704132000,
+      "humidity": 8.516047681264926,
+      "wind": 0.1552203299844468,
+      "temperature": 13.21945829481601,
+      "note": "Monday 7PM"
+    },
+    {
+      "timestamp": 1704135600,
+      "humidity": 6.454831888892367,
+      "wind": -0.6851703986290127,
+      "temperature": 11.648283422464411,
+      "note": "Monday 8PM"
+    },
+    {
+      "timestamp": 1704139200,
+      "humidity": 8.589719580303477,
+      "wind": -3.2332805435778784,
+      "temperature": 12.543057304671503,
+      "note": "Monday 9PM"
+    },
+    {
+      "timestamp": 1704142800,
+      "humidity": 8.861193129423473,
+      "wind": -4.801771712582481,
+      "temperature": 11.574473797271708,
+      "note": "Monday 10PM"
+    },
+    {
+      "timestamp": 1704146400,
+      "humidity": 12.383343787653997,
+      "wind": -6.84756686249008,
+      "temperature": 10.194028551016247,
+      "note": "Monday 11PM"
+    },
+    {
+      "timestamp": 1704150000,
+      "humidity": 12.253751794972985,
+      "wind": -7.867771588019005,
+      "temperature": 10.723757486974613,
+      "note": "Tuesday 12AM"
+    },
+    {
+      "timestamp": 1704153600,
+      "humidity": -12.049510071164935,
+      "wind": 15.44854631684062,
+      "temperature": 32.63398339031184,
+      "note": "Tuesday 1AM"
+    },
+    {
+      "timestamp": 1704157200,
+      "humidity": -8.743645958023407,
+      "wind": 16.893443468646296,
+      "temperature": 31.663804894762627,
+      "note": "Tuesday 2AM"
+    },
+    {
+      "timestamp": 1704160800,
+      "humidity": -10.131356647687603,
+      "wind": 16.546880958458466,
+      "temperature": 31.963551520690434,
+      "note": "Tuesday 3AM"
+    },
+    {
+      "timestamp": 1704164400,
+      "humidity": -9.479698521857909,
+      "wind": 12.880291411075259,
+      "temperature": 30.481390371607468,
+      "note": "Tuesday 4AM"
+    },
+    {
+      "timestamp": 1704168000,
+      "humidity": -8.65120699853819,
+      "wind": 14.171052460437867,
+      "temperature": 29.877709933644432,
+      "note": "Tuesday 5AM"
+    },
+    {
+      "timestamp": 1704171600,
+      "humidity": -5.100584247506105,
+      "wind": 13.959580773178596,
+      "temperature": 28.884531372036044,
+      "note": "Tuesday 6AM"
+    },
+    {
+      "timestamp": 1704175200,
+      "humidity": -4.880747075511131,
+      "wind": 12.141341071972267,
+      "temperature": 24.950148795538322,
+      "note": "Tuesday 7AM"
+    },
+    {
+      "timestamp": 1704178800,
+      "humidity": -3.6539118813619886,
+      "wind": 10.398954010345308,
+      "temperature": 25.340669442693763,
+      "note": "Tuesday 8AM"
+    },
+    {
+      "timestamp": 1704182400,
+      "humidity": -1.5570536551764196,
+      "wind": 9.926990961243334,
+      "temperature": 25.804435052799953,
+      "note": "Tuesday 9AM"
+    },
+    {
+      "timestamp": 1704186000,
+      "humidity": -0.09634986149241342,
+      "wind": 6.181339266169264,
+      "temperature": 21.208411691889175,
+      "note": "Tuesday 10AM"
+    },
+    {
+      "timestamp": 1704189600,
+      "humidity": 0.5285968316677927,
+      "wind": 8.657879841694701,
+      "temperature": 20.47410349100756,
+      "note": "Tuesday 11AM"
+    },
+    {
+      "timestamp": 1704193200,
+      "humidity": -0.860452777450079,
+      "wind": 4.498102324731989,
+      "temperature": 20.929587923810978,
+      "note": "Tuesday 12PM"
+    },
+    {
+      "timestamp": 1704196800,
+      "humidity": 2.686142234999508,
+      "wind": 3.537806844314966,
+      "temperature": 21.756223309605012,
+      "note": "Tuesday 1PM"
+    },
+    {
+      "timestamp": 1704200400,
+      "humidity": 1.009125505773711,
+      "wind": 2.5005867797422097,
+      "temperature": 18.037051265616412,
+      "note": "Tuesday 2PM"
+    },
+    {
+      "timestamp": 1704204000,
+      "humidity": 2.808213267354531,
+      "wind": 1.7733182918226627,
+      "temperature": 19.855332233900587,
+      "note": "Tuesday 3PM"
+    },
+    {
+      "timestamp": 1704207600,
+      "humidity": 3.166370178386491,
+      "wind": 0.6495497627941873,
+      "temperature": 16.471611136753605,
+      "note": "Tuesday 4PM"
+    },
+    {
+      "timestamp": 1704211200,
+      "humidity": 4.64238458615883,
+      "wind": 1.7080891623880614,
+      "temperature": 16.933945893369355,
+      "note": "Tuesday 5PM"
+    },
+    {
+      "timestamp": 1704214800,
+      "humidity": 5.6001484114407925,
+      "wind": -1.6217361584420091,
+      "temperature": 13.191567633528127,
+      "note": "Tuesday 6PM"
+    },
+    {
+      "timestamp": 1704218400,
+      "humidity": 8.765939663069293,
+      "wind": -1.3705322350229325,
+      "temperature": 12.476186527328972,
+      "note": "Tuesday 7PM"
+    },
+    {
+      "timestamp": 1704222000,
+      "humidity": 6.235529648388984,
+      "wind": -3.6105041326466862,
+      "temperature": 14.1667994807046,
+      "note": "Tuesday 8PM"
+    },
+    {
+      "timestamp": 1704225600,
+      "humidity": 8.912432030108672,
+      "wind": -1.5636570842121884,
+      "temperature": 13.974721133547284,
+      "note": "Tuesday 9PM"
+    },
+    {
+      "timestamp": 1704229200,
+      "humidity": 11.690954584077787,
+      "wind": -3.7489139991189626,
+      "temperature": 10.639794865354204,
+      "note": "Tuesday 10PM"
+    },
+    {
+      "timestamp": 1704232800,
+      "humidity": 9.997728718860138,
+      "wind": -5.0492858068317785,
+      "temperature": 11.097409496503055,
+      "note": "Tuesday 11PM"
+    },
+    {
+      "timestamp": 1704236400,
+      "humidity": 13.10162567418686,
+      "wind": -6.602796864104813,
+      "temperature": 10.174791493957201,
+      "note": "Wednesday 12AM"
+    },
+    {
+      "timestamp": 1704240000,
+      "humidity": -11.55600162541554,
+      "wind": 16.11925220451137,
+      "temperature": 32.91122275889846,
+      "note": "Wednesday 1AM"
+    },
+    {
+      "timestamp": 1704243600,
+      "humidity": -10.306473937682789,
+      "wind": 16.413716935159755,
+      "temperature": 31.545221487034674,
+      "note": "Wednesday 2AM"
+    },
+    {
+      "timestamp": 1704247200,
+      "humidity": -8.370564667813328,
+      "wind": 16.654852336777346,
+      "temperature": 29.177636167034226,
+      "note": "Wednesday 3AM"
+    },
+    {
+      "timestamp": 1704250800,
+      "humidity": -8.04486471490409,
+      "wind": 13.193258989840913,
+      "temperature": 27.586339512783404,
+      "note": "Wednesday 4AM"
+    },
+    {
+      "timestamp": 1704254400,
+      "humidity": -5.582163476580338,
+      "wind": 11.28783651686414,
+      "temperature": 27.86480176366381,
+      "note": "Wednesday 5AM"
+    },
+    {
+      "timestamp": 1704258000,
+      "humidity": -5.664916067841155,
+      "wind": 13.202617732554584,
+      "temperature": 26.919319218633945,
+      "note": "Wednesday 6AM"
+    },
+    {
+      "timestamp": 1704261600,
+      "humidity": -3.290718385447075,
+      "wind": 12.574524140856452,
+      "temperature": 25.12081637625437,
+      "note": "Wednesday 7AM"
+    },
+    {
+      "timestamp": 1704265200,
+      "humidity": -4.300253481207611,
+      "wind": 8.564824609710364,
+      "temperature": 24.4439678574522,
+      "note": "Wednesday 8AM"
+    },
+    {
+      "timestamp": 1704268800,
+      "humidity": -2.3847613945853334,
+      "wind": 9.037366139568825,
+      "temperature": 25.580438971765897,
+      "note": "Wednesday 9AM"
+    },
+    {
+      "timestamp": 1704272400,
+      "humidity": -1.040643762506268,
+      "wind": 9.770872431037201,
+      "temperature": 24.395741740940988,
+      "note": "Wednesday 10AM"
+    },
+    {
+      "timestamp": 1704276000,
+      "humidity": -0.3721525666142247,
+      "wind": 8.186184753832826,
+      "temperature": 21.937493369412593,
+      "note": "Wednesday 11AM"
+    },
+    {
+      "timestamp": 1704279600,
+      "humidity": -0.5469437000933643,
+      "wind": 6.662566448375099,
+      "temperature": 21.72428004585717,
+      "note": "Wednesday 12PM"
+    },
+    {
+      "timestamp": 1704283200,
+      "humidity": 1.4675920490472736,
+      "wind": 4.761129980920457,
+      "temperature": 19.733557946352164,
+      "note": "Wednesday 1PM"
+    },
+    {
+      "timestamp": 1704286800,
+      "humidity": 3.9782022849982885,
+      "wind": 2.974198188991396,
+      "temperature": 19.220776704858803,
+      "note": "Wednesday 2PM"
+    },
+    {
+      "timestamp": 1704290400,
+      "humidity": 1.7189176650322473,
+      "wind": 3.556974417578309,
+      "temperature": 17.387339989521376,
+      "note": "Wednesday 3PM"
+    },
+    {
+      "timestamp": 1704294000,
+      "humidity": 3.0433124185840787,
+      "wind": 2.986946890404468,
+      "temperature": 16.51973991966656,
+      "note": "Wednesday 4PM"
+    },
+    {
+      "timestamp": 1704297600,
+      "humidity": 5.348901883213778,
+      "wind": 1.362101734119868,
+      "temperature": 14.395139739275606,
+      "note": "Wednesday 5PM"
+    },
+    {
+      "timestamp": 1704301200,
+      "humidity": 5.649426892320833,
+      "wind": 0.7970303368892369,
+      "temperature": 14.13097027493501,
+      "note": "Wednesday 6PM"
+    },
+    {
+      "timestamp": 1704304800,
+      "humidity": 6.279823620887507,
+      "wind": -1.1873004780338627,
+      "temperature": 12.309812646767085,
+      "note": "Wednesday 7PM"
+    },
+    {
+      "timestamp": 1704308400,
+      "humidity": 8.231388526267395,
+      "wind": -1.0358237611819927,
+      "temperature": 14.933674709371518,
+      "note": "Wednesday 8PM"
+    },
+    {
+      "timestamp": 1704312000,
+      "humidity": 10.63932880502135,
+      "wind": -1.3077883731555007,
+      "temperature": 12.37435511373496,
+      "note": "Wednesday 9PM"
+    },
+    {
+      "timestamp": 1704315600,
+      "humidity": 10.342998948499911,
+      "wind": -2.4667523460153262,
+      "temperature": 12.176416185921981,
+      "note": "Wednesday 10PM"
+    },
+    {
+      "timestamp": 1704319200,
+      "humidity": 9.848860798821686,
+      "wind": -3.5781296940528504,
+      "temperature": 9.066872434541587,
+      "note": "Wednesday 11PM"
+    },
+    {
+      "timestamp": 1704322800,
+      "humidity": 12.841136059586802,
+      "wind": -7.882246989555255,
+      "temperature": 8.529442704736232,
+      "note": "Thursday 12AM"
+    },
+    {
+      "timestamp": 1704322803,
+      "temperature": 2311,
+      "wind": null,
+      "humidity": 1234
+    }
+  ]
+}
